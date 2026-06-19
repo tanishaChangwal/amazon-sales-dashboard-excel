@@ -70,4 +70,4 @@ Key steps included:
 
 # By :- 
 Tanisha Changwal
-Aspiring Data Analyst | Excel | SQL | Power BI | Data 
+| Aspiring Data Analyst | Excel | SQL | Power BI | Python
